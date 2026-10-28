@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 4b2ec960043364892adc2cd057d847f4
+  - enabled: 0
     path: Assets/Scenes/XRI Starter Kit 1.unity
     guid: d19c96a3246754d368c331e20523b67c
   m_configObjects:
